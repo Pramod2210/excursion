@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.heading h3{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video{
+   margin-left: 35%;
+}
+
+.content{
+    text-align: center;
+    color: white;
+}
+
+# head{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size:42px ;
+ 
+}
+#para{
+    font-family: Verdana;
+    font-size:21px ;
+    color: gray;
+}
+ .footer img{
+     margin-left: 50%;
+     padding-top: 10px;
+ }
+
+ .image{
+    margin-left: 20%;
+ }
+
+ .footer h1{
+    text-align: center;
+    color: white;
+ }
+
+ .footer a,p{
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+ }
+ 
+ .Copyright h2{
+     text-align: right;
+     color:gray;
+ }
